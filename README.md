@@ -1,5 +1,5 @@
 # Amazon food reviews Summarization
-Given a series of input text sequences and output summaries, 
+As a project for cmsi537 Natural Language Processing, we explore text summarization. Given a series of input text sequences and output summaries, 
 that task is to build, train, and evaluate the model to produce summaries.
 
 ## Data
